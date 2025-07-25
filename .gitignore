@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# VSCode settings
+.vscode/
+
+# Logs and temp files
+*.log
+*.tmp
+~$*
+
+# Environment variables
+.env
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Allow this file to be tracked
+!requirements.txt
