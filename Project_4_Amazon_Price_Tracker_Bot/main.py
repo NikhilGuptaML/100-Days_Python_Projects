@@ -42,7 +42,7 @@ def request_price():
 def main():
     current_price=request_price()
     
-    if(int(current_price.replace(",","").strip("."))<160,000):
+    if(int(current_price.replace(",","").strip("."))<160000):
         send_mail(current_price)
 
 if __name__=="__main__":
