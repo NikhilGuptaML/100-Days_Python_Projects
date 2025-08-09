@@ -11,6 +11,7 @@ This repository contains the Python projects I built while following the [100 Da
 | 25  | U.S. States Game      | A GUI Educational Game to help students learning names of States with Turtle UI. |
 | 29  | Password Manager | A GUI Password Manger that saves your login credentials in a local json file |
 | 38 | Stock alert | A Python script that sends sms when their are changes to stock|
+| 47 | Automated Amazon Price Tracker| A python script that automatically fetches the price of an item and sends an email if the price is lower than a set price.|
 | ... | Coming Soon            | More projects will be added as I progress.                |
 
 ---
@@ -29,8 +30,8 @@ This repository contains the Python projects I built while following the [100 Da
 - Tkinter
 - JSON/File Handling
 - OOP Principles
-- APIs (Upcoming)
-- Web Scraping (Upcoming)
+- APIs 
+- Web Scraping 
 
 ---
 
@@ -42,6 +43,6 @@ These projects are educational and intended for learning purposes. Passwords and
 
 ## 📅 Current Progress
 
-I am currently around **Day 41**, and I’ll be updating this repo regularly as I move ahead. Stay tuned!
+I am currently around **Day 48**, and I’ll be updating this repo regularly as I move ahead. Stay tuned!
 
 
